@@ -3,7 +3,7 @@
 Circulación de Vehículos COVID-19
 
 El reto está construido con la tecnología de Flutter
-## Capturas
+
 
 ## Requisitos
 
@@ -19,6 +19,8 @@ flutter pub get
 ```sh
 flutter run o F5
 ```
+
+## Capturas
 ![image1][image1]
 ![image2][image2]
 ![image3][image3]
