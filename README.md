@@ -19,3 +19,12 @@ flutter pub get
 ```sh
 flutter run o F5
 ```
+![image1][image1]
+![image2][image2]
+![image3][image3]
+![image4][image4]
+
+[image1]https://github.com/korbold/CardCovid/blob/master/assets/screenshot/1.jpg
+[image2]https://github.com/korbold/CardCovid/blob/master/assets/screenshot/2.jpg
+[image3]https://github.com/korbold/CardCovid/blob/master/assets/screenshot/3.jpg
+[image4]https://github.com/korbold/CardCovid/blob/master/assets/screenshot/4.jpg
