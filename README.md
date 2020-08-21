@@ -22,13 +22,11 @@ flutter run o F5
 
 ## Capturas
 
-|LineChart	|BarChart		|PieChart		|PieChart		|
-|:------------:|:------------:|:-------------:|:-------------:|
 
-|	[![][image1]|
-|	[![][image2]|
-|	[![][image3]|
-|	[![][image4]|
+[![][image1]
+[![][image2]
+[![][image3]
+[![][image4]
 
 [image1]:https://github.com/korbold/CardCovid/blob/master/assets/screenshot/1.jpg
 [image2]:https://github.com/korbold/CardCovid/blob/master/assets/screenshot/2.jpg
